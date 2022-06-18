@@ -1,9 +1,5 @@
 """
-Define a Python function 'orangecap(d)' which reads a dictionary 'd' of the 
-following form and identifies the player with the highest total score. The 
-function should return a pair (playername, topscore), where playername is the 
-name of the player with the highest score and topscore is the total runs scored 
-by the player.
+Define a Python function 'orangecap(d)' which reads a dictionary 'd' of the following form and identifies the player with the highest total score. The function should return a pair (playername, topscore), where playername is the name of the player with the highest score and topscore is the total runs scored by the player.
 Input
 orangecap({'test1':{'Dhoni':74, 'Kohli':150}, 'test2':{'Dhoni':29,
 'Pujara':42}})
