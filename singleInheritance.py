@@ -1,14 +1,9 @@
 """
 Write a program to implement single inheritance.
-a. Create the parent class Circle. Initialise the constructor with the radius of
-the circle.
-b. Define the method get_radius() and calc_area() to know the radius and area
-of the circle.
-c. Create the child class named Cylinder. Initialise the value of the height
-within the constructor and call the constructor of the parent class to initialise
-the radius of the cylinder.
-d. Finally, define the method Calc_area() in the class Cylinder to calculate the
-area of the cylinder.
+a. Create the parent class Circle. Initialise the constructor with the radius of the circle.
+b. Define the method get_radius() and calc_area() to know the radius and area of the circle.
+c. Create the child class named Cylinder. Initialise the value of the height within the constructor and call the constructor of the parent class to initialise the radius of the cylinder.
+d. Finally, define the method Calc_area() in the class Cylinder to calculate the area of the cylinder.
 Note: Area of Cylinder = 2 * pi * radius * height
 """
 
