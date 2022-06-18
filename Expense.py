@@ -1,17 +1,12 @@
 """
-.Let us assume an individual spends ‘x’ amount (in three digits) on ’Y’ item 
-each month. The amount spent each month is stored in a file Expenses.txt in 
-the format MonthNo:X\n. Create an application using file handling to 
-calculate the total amount spent on ‘Y’ item in the last six months. Consider 
-the Expenses.txt file given below. The information contained within the file 
-is:
+Let us assume an individual spends ‘x’ amount (in three digits) on ’Y’ item each month. The amount spent each month is stored in a file Expenses.txt in the format MonthNo:X\n. Create an application using file handling to  calculate the total amount spent on ‘Y’ item in the last six months. Consider the Expenses.txt file given below. The information contained within the file is:
 Month1 : 100
 Month2 : 200
 Month3 : 079
 Month4 : 090
 Month5 : 097
 Month6 : 100
-Total expense in the last six months: 566
+Total expense in the last six months: 666
 """
 
 fp1=open('Expenses.txt','w+')
